@@ -29,10 +29,10 @@ var string1=string.toLowerCase()
           return "YES INDEED!"
         }
         else if (string==="I love you,Grandma.")  {
-          return "I love you too."
+          return "I love you, too."
               }
               else{
-                return "I love you too."
+                return "I love you, too."
               }
   }
 //
